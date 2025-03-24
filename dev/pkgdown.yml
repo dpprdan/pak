@@ -1,8 +1,8 @@
 pandoc: 3.1.11
 pkgdown: 2.1.1.9000
-pkgdown_sha: 7c2e4b937cbb9c18dfe576f34f681b99392c804b
+pkgdown_sha: 66477c0dbb4f4925ec872cf64d5eaa316cc70bac
 articles: {}
-last_built: 2025-03-16T14:50Z
+last_built: 2025-03-24T14:48Z
 urls:
   reference: https://pak.r-lib.org/reference
   article: https://pak.r-lib.org/articles
