@@ -1,10 +1,8 @@
-pandoc: 2.14.2
-pkgdown: 2.0.6
-pkgdown_sha: ~
-articles:
-  internals: internals.html
-last_built: 2022-09-12T12:29Z
+pandoc: 3.1.11
+pkgdown: 2.1.3.9000
+pkgdown_sha: f950aed41af49c732ba7884d0806c3641a7b94b3
+articles: {}
+last_built: 2025-05-27T14:47Z
 urls:
-  reference: http://pak.r-lib.org/reference
-  article: http://pak.r-lib.org/articles
-
+  reference: https://pak.r-lib.org/reference
+  article: https://pak.r-lib.org/articles
